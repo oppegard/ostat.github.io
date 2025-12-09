@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Auto Adjusting Lights
-parent: Tasmots
+parent: Tasmota
 grand_parent: IOT
 nav_order: 2
 ---

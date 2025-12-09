@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Auto Power Strip
-parent: Tasmots
+parent: Tasmota
 grand_parent: IOT
 nav_order: 2
 ---
